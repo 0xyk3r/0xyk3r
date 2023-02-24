@@ -24,12 +24,12 @@
 <p>
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=FFF&style=ShieldStyle" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=FFF&style=ShieldStyle" />
-  <img src="https://img.shields.io/badge/Vue-339933?logo=vue&logoColor=FFF&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/Vue.js-339933?logo=vue.js&logoColor=FFF&style=ShieldStyle" />
   <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=%23F7DF1E&style=ShieldStyle" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=FFF&style=ShieldStyle" />
   <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=ShieldStyle&logo=Gradle&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?logo=apachemaven&logoColor=FFF&style=ShieldStyle" />
-  <img src="https://img.shields.io/badge/Node%20JS-339933?logo=node-dot-js&logoColor=FFF&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/Node.JS-339933?logo=node.js&logoColor=FFF&style=ShieldStyle" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=FFF&style=ShieldStyle" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=FFF&style=ShieldStyle" />
   <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=FFF&style=ShieldStyle" />
