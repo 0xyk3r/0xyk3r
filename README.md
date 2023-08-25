@@ -13,7 +13,7 @@
      
 <strong>Hi, I am 0xyk3r!👋 </strong>
 
-<strong>A full stack(may be) developer from China. </strong>
+<strong></strong>
 
 </pre> 
 
