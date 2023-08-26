@@ -13,11 +13,8 @@
      
 <strong>Hi, I am 0xyk3r!👋 </strong>
 
-<strong></strong>
-
 </pre> 
 
-<img width="100%" alt="game gif" src="https://qnycdn.volcanoblog.cn/github-contribution-grid-snake.svg"/>  
 
 
 ### 🛠 &nbsp;Tech Stack & Tools
