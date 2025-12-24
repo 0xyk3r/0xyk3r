@@ -12,8 +12,8 @@
 ### 👨‍💻 About Me
 
 ```typescript
-const 0xyk3r = {
-    location: "China 🇨🇳",
+const _0xyk3r = {
+    location: "Earth",
     role: "Full Stack Developer & AI Explorer",
     interests: ["AI/ML", "System Architecture", "Open Source"],
     currentFocus: "Building intelligent systems with cutting-edge technologies",
@@ -31,10 +31,13 @@ const 0xyk3r = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xyk3r&theme=tokyonight&hide_border=true&background=0D1117&stroke=A277FF&ring=61DAFB&fire=FF6B6B&currStreakLabel=FFF" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xyk3r&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A277FF&icon_color=61DAFB&text_color=FFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xyk3r&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A277FF&text_color=FFF"/>
-</div>
+[//]: # (<div align="center">)
+
+[//]: # (  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xyk3r&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A277FF&icon_color=61DAFB&text_color=FFF"/>)
+
+[//]: # (  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xyk3r&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A277FF&text_color=FFF"/>)
+
+[//]: # (</div>)
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xyk3r&custom_title=Contribution%20Graph&bg_color=0D1117&color=A277FF&line=61DAFB&point=FF6B6B&area_color=61DAFB&area=true&hide_border=true&title_color=FFF" alt="Contribution Graph"/>
@@ -46,37 +49,15 @@ const 0xyk3r = {
 
 ### 🛠️ Tech Stack & Skills
 
-#### 🤖 AI & Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/PaddlePaddle-0062B0?style=for-the-badge&logo=paddlepaddle&logoColor=white" alt="PaddlePaddle"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-</p>
-
-#### 🐍 Python Ecosystem
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/CondaForge-000000?style=for-the-badge&logo=condaforge&logoColor=white" alt="Anaconda"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
-</p>
-
 #### ☕ Backend Development
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security"/>
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven"/>
-  <img src="https://img.shields.io/badge/GraalVM-F24E1E?style=for-the-badge&logo=java&logoColor=white" alt="GraalVM"/>
+  <img src="https://img.shields.io/badge/GraalVM-F24E1E?style=for-the-badge&logo=openjdk&logoColor=white" alt="GraalVM"/>
 </p>
 
 #### 🎨 Frontend Development
@@ -102,11 +83,11 @@ const 0xyk3r = {
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" alt="ClickHouse"/>
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
 </p>
 
 #### 🔄 Message Queue & Stream Processing
@@ -149,7 +130,29 @@ const 0xyk3r = {
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black" alt="Ubuntu"/>
   <img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibaba-cloud&logoColor=white" alt="Alibaba Cloud"/>
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+</p>
+
+#### 🤖 AI & Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/PaddlePaddle-0062B0?style=for-the-badge&logo=paddlepaddle&logoColor=white" alt="PaddlePaddle"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+</p>
+
+#### 🐍 Python Ecosystem
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/CondaForge-000000?style=for-the-badge&logo=condaforge&logoColor=white" alt="Anaconda"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
 </p>
 
 <br/>
@@ -158,9 +161,11 @@ const 0xyk3r = {
 
 ### 📈 Contribution Metrics
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xyk3r&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-</div>
+[//]: # (<div align="center">)
+
+[//]: # (  <img src="https://github-profile-trophy.vercel.app/?username=0xyk3r&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>)
+
+[//]: # (</div>)
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xyk3r&theme=tokyonight" alt="Profile Details"/>
